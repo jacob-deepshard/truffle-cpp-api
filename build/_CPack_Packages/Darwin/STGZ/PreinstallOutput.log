@@ -1,0 +1,6 @@
+# Run command: /opt/homebrew/Cellar/cmake/3.31.0/bin/cmake --build . --target "preinstall"
+# Directory: /Users/jacob/Documents/Code/deepshard/truffle-1/firmware/tfw/sdk/cpp/build
+# Output:
+make: Makefile: No such file or directory
+make: *** No rule to make target `Makefile'.  Stop.
+
